@@ -15,5 +15,5 @@ Se tiver dificuldade de dar o include por conta da estrutura de pastas/subpastas
 
 Procurei deixar esses arquivos o mais simples possível para facilitar o entendimento.
 
-Se o seu contrato com a Yapay for do tipo Gatway, você pode encontrar mais informações em https://gateway.dev.yapay.com.br/#/
+Se o seu contrato com a Yapay for do tipo Gateway, você pode encontrar mais informações em https://gateway.dev.yapay.com.br/#/
 Já, se for do tipo Intermediador, acesse https://intermediador.dev.yapay.com.br/#/ para obter mais informações.
